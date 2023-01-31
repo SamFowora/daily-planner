@@ -1,4 +1,4 @@
-# Daily Llanner
+# Daily Planner
 
 https://samfowora.github.io/daily-planner/
 
