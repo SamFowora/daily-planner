@@ -16,14 +16,18 @@
         // [not required] can store information in local storage
 
 // DOM elements
-var currentDayEl = ('#currentDay');
+// var currentDayEl = ('#currentDay');
 
-function displayTime() {
-    var rightNow = moment().format('DD MMM YYYY [at] hh:mm:ss a');
-    currentDayEl.text(rightNow);
-}
+// function displayTime() {
+//     var rightNow = moment().format('DD MMM YYYY [at] hh:mm:ss a');
+//     currentDayEl.text(rightNow);
+// }
 
-// function currentDay() {
-//     var today = moment().format('DD MM YYYY , HH:mm');
+// var today = moment().format('DD MM YYYY , HH:mm');
 //     currentDayEl.textContent(today);
 // } 1000;
+
+const date = moment().format("DD MMMM YYYY" , "HH:mm");
+$("#currentDay").text(date);
+const CurrentTime = moment().hour().minute;
+//console.log(CurrentTime);
