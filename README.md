@@ -1,4 +1,4 @@
-# daily planner
+# Daily Llanner
 
 https://samfowora.github.io/daily-planner/
 
@@ -6,7 +6,7 @@ https://samfowora.github.io/daily-planner/
 
 Organisation simplified...kinda ( :s ).
 Honestly speaking, as incomplete as this project is, I feel like my trial and error learning process is very beneficial to me. It's easier to know what not to do when you've done everything wrong, am I right? haha. But I digress - an application for time management is perfect for people who want to increase their productivity and add some structure to their life. The only issue with this is that data isn't stored locally so once closed, all tasks written WILL disappear.
-
+[PLEASE NOTE: for some odd reason css isn't linking to the html, check screenshot below for proper appearance]
 
 ## Installation
 
